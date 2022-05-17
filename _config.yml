@@ -3,7 +3,7 @@ title: Indelible Consulting
 subtitle: Learn it right.
 email: f/xgedrdzn
 description: Technical education for everyone.
-baseurl: # the subpath of your site, e.g. /blog
+baseurl: http://indelible.consulting # the subpath of your site, e.g. /blog
 url: http://indelible.consulting # the base hostname & protocol for your site
 author: Indelible Ideas SL
 street_address: Plaza Urquinaona 6
